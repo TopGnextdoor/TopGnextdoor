@@ -1,134 +1,130 @@
 <div align="center">
 
-# Hey, I'm Divvyansh 👋
+```
+██████╗ ██╗██╗   ██╗██╗   ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
+██╔══██╗██║██║   ██║██║   ██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║
+██║  ██║██║██║   ██║██║   ██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║
+██║  ██║██║╚██╗ ██╔╝╚██╗ ██╔╝  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║
+██████╔╝██║ ╚████╔╝  ╚████╔╝    ██║   ██║  ██║██║ ╚████║███████║██║  ██║
+╚═════╝ ╚═╝  ╚═══╝    ╚═══╝     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+```
 
-### Builder at the intersection of **AI**, **sustainability**, and **systems thinking**
+### Software Developer · AI & Climate Tech · Chennai, India
 
-*Chennai, India 🇮🇳 — writing code that (hopefully) makes the planet a little less cooked*
+*Building systems that think about carbon, not just correctness.*
 
-[![GitHub followers](https://img.shields.io/github/followers/TopGnextdoor?style=flat-square&color=0d1117&labelColor=161b22&label=followers)](https://github.com/TopGnextdoor?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=TopGnextdoor&style=flat-square&color=0d1117&label=profile+views)](https://github.com/TopGnextdoor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `> whoami`
 
-I'm a developer who likes to build things that sit at the edge of **machine learning**, **environmental tech**, and **clean software design**. My projects tend to start with a question like *"what if we made that smarter?"* — and end with a Streamlit dashboard or a Java console menu.
+I'm Divvyansh — a developer who builds at the crossroads of **machine learning**, **environmental technology**, and **systems design**. My work tends to ask the same underlying question: *what if software was held accountable for its real-world impact?*
 
-I'm particularly drawn to problems where engineering decisions have real-world consequences: carbon emissions, resource efficiency, financial sustainability. I believe good software should do more than just work — it should work *responsibly*.
+I gravitate toward problems that have weight to them — carbon emissions from ML infrastructure, climate risk in financial systems, algorithmic efficiency that actually matters. I like digging into the details: power curves, scheduling heuristics, data structure tradeoffs, the gap between a clean abstraction and a fast implementation.
 
-When I'm not pushing commits, I'm probably reading about distributed systems, climate tech, or figuring out why my LSTM loss plateaued again.
-
----
-
-## 🔭 What I'm Working On
-
-- **Carbon-aware GPU scheduling** — teaching data centers to think about when they run ML jobs, not just how
-- **Climate-integrated investing** — autonomous systems that price in environmental risk
-- **Algorithms + data structures** — going deep on the fundamentals with a focus on real-world applicability
+I write mostly in **Python**, **Java**, and **JavaScript**. I care about writing code that is readable, intentional, and built to last — not just code that runs.
 
 ---
 
-## 🚀 Featured Projects
+## `> cat interests.txt`
 
-### ⚡ [Carbon Optimizer](https://github.com/TopGnextdoor/Carbon-Optimizer)
-> *AI-powered GPU workload scheduling simulator that minimizes data center carbon emissions*
+```yaml
+currently_building:
+  - Carbon-aware GPU workload schedulers
+  - Climate-integrated autonomous investing systems
+  - Full-stack weather and climate data applications
 
-A fully offline simulation engine that models a **10-GPU heterogeneous cluster**, generates realistic ML job queues, and benchmarks a **carbon-aware scheduler** against a baseline FCFS approach — all visualized in a Streamlit dashboard. The carbon-aware scheduler uses a **PyTorch LSTM** to forecast workload demand and defers low-priority jobs to greener grid windows without sacrificing SLA.
+currently_learning:
+  - PyTorch internals and LSTM sequence modeling
+  - Systems-level performance optimization
+  - Sustainable AI and green computing principles
 
-`Python` `PyTorch` `Streamlit` `Plotly` `Pandas` `NumPy`
-
----
-
-### 🌿 [ClimaTech](https://github.com/TopGnextdoor/ClimaTech)
-> *Climate data meets modern web interfaces*
-
-A JavaScript-based application exploring the intersection of real-time climate data and interactive web experiences.
-
-`JavaScript`
-
----
-
-### 🤖 [Sentinel — Climate-Aware Autonomous Investing System](https://github.com/TopGnextdoor/Sentinel-Climate-Aware-Autonomous-Investing-System)
-> *Autonomous portfolio decisions driven by environmental and climate data*
-
-An investing system that integrates real-time climate and environmental signals to drive sustainable, climate-aware portfolio decisions. Two versions — v1.0 (Python) and the current JS iteration — reflecting active iteration on architecture.
-
-`JavaScript` `Python`
+obsessed_with:
+  - The intersection of AI and environmental responsibility
+  - Algorithm design and data structures (genuinely, not just for interviews)
+  - Building things that are both technically rigorous and actually useful
+```
 
 ---
 
-### ☕ [Palindrome Checker App](https://github.com/TopGnextdoor/Palindrome-Checker-App)
-> *13 algorithms. One problem. Beautifully over-engineered.*
-
-A comprehensive Java application demonstrating **13 different palindrome checking algorithms** — stack, queue, recursion, the Strategy Pattern, and more. Features an interactive menu and case-insensitive checking. A love letter to algorithmic thinking.
-
-`Java` · OOP · Design Patterns · Data Structures
-
----
-
-### 🏨 [Book My Stay](https://github.com/TopGnextdoor/Book-My-Stay)
-> *Console-based hotel booking system built on Core Java*
-
-A real-world booking engine demonstrating **FIFO request handling**, inventory management, and double-booking prevention — all through the lens of core data structures and clean Java design.
-
-`Java` · Core DSA · Console Applications
-
----
-
-## 🛠️ Tech Stack
+## `> ls skills/`
 
 **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**ML / Data**
+**ML & Data**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Visualization & UI**
+**Tools & Platforms**
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 **Concepts I care about**
-`Carbon-Aware Computing` · `Algorithm Design` · `OOP & Design Patterns` · `Simulation Systems` · `Sustainable AI`
+
+`Carbon-Aware Computing` · `LSTM / Sequence Modeling` · `Simulation Systems` · `OOP & Design Patterns` · `Algorithm Design` · `Sustainable AI`
 
 ---
 
-## 📊 GitHub Stats
+## `> ./projects --highlights`
+
+| Project | Stack | What it does |
+|---|---|---|
+| ⚡ **Carbon Optimizer** | Python · PyTorch · Streamlit | AI-powered GPU scheduler that minimizes data center carbon emissions |
+| 🤖 **Sentinel** | Python · JavaScript | Autonomous investing system driven by real-time climate & environmental data |
+| 🌿 **ClimaTech** | JavaScript | Interactive climate data visualization platform |
+| ☕ **Palindrome Checker** | Java | 13 algorithms, one problem — a deep dive into DSA and design patterns |
+| 🏨 **Book My Stay** | Java | Hotel booking engine built on FIFO queues and core data structures |
+
+---
+
+## `> git log --oneline`
+
+```
+feat: carbon-aware GPU scheduler with PyTorch LSTM demand forecasting
+feat: climate-integrated autonomous investing engine (Sentinel v2.0)
+feat: interactive climate data visualization platform (ClimaTech)
+feat: hotel booking system with FIFO queue and double-booking prevention
+feat: 13-algorithm palindrome checker using the Strategy Pattern
+```
+
+---
+
+## `> cat philosophy.md`
+
+> Good software doesn't just solve a problem — it does so in a way that accounts for what it costs.
+> Compute has a carbon footprint. Algorithms have consequences. I try to build things that are aware of both.
+
+I believe the next generation of software systems needs to be *environmentally legible* — meaning engineers should understand a system's energy and emissions profile as naturally as they understand its time complexity. That's the problem space I keep returning to.
+
+---
+
+## `> ping me`
+
+Open to conversations about climate tech, ML systems, algorithm deep-dives, or just comparing notes on weird scheduling heuristics. If something here resonated, let's talk.
 
 <div align="center">
 
-![Divvyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TopGnextdoor&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+[![GitHub](https://img.shields.io/badge/github-TopGnextdoor-181717?style=for-the-badge&logo=github)](https://github.com/TopGnextdoor)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TopGnextdoor&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+*Chennai, India · Open to remote collaboration*
 
 ---
 
-## 🏅 GitHub Achievements
-
-🦈 **Pull Shark ×2** — Merged pull requests, twice over  
-🎯 **YOLO** — Shipped it
-
----
-
-## 💬 Let's Connect
-
-I'm always up for conversations about climate tech, ML systems, or just comparing notes on weird algorithm implementations.
-
-[![GitHub](https://img.shields.io/badge/GitHub-TopGnextdoor-181717?style=flat-square&logo=github)](https://github.com/TopGnextdoor)
-
----
-
-<div align="center">
-
-*"The best time to reduce your carbon footprint was 20 years ago. The second best time is now — preferably during off-peak grid hours."*
+<sub>⚡ Powered by curiosity &nbsp;·&nbsp; 🌿 Optimized for impact &nbsp;·&nbsp; ☕ Fueled by filter coffee</sub>
 
 </div>
